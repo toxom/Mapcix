@@ -1,0 +1,12 @@
+/* styles.css */
+html, body {
+    overflow: hidden; 
+}
+
+#mapid {
+    height: 1200px;
+    width: 88%;
+    border-radius: 20px;
+    margin: 30px;
+}
+
